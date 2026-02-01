@@ -9,7 +9,7 @@
 id = "bk_recomp_mod_map_select"
 
 # Version of this mod.
-version = "1.0.0"
+version = "1.1.0"
 
 # The name that will show up for this mod in the mod menu. This should be human readable.
 display_name = "Map Select"
@@ -19,6 +19,7 @@ description =  """
 This mod allows you to teleport to any map in the game. Still WIP.
 
 Controls:
+
 DPad Up - Open/Close menu
 
 DPad Left - Navigate Left
